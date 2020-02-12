@@ -1,0 +1,65 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "LeBron James",
+      "status":"Multi-layered client-server neural-net",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482754/james_qdnta5.png"
+
+    },
+    {
+      "id": 2,
+      "name": "Kyrie Irving",
+      "status": "Proactive didactic contingency",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482745/iriving_dcrmbc.png"
+    },
+    {
+      "id": 3,
+      "name": "Michael Jordan",
+      "status": "Face to face bifurcated interface",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482736/goat_mbvkfg.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Stephen Curry",
+      "status": "Multi-tiered zero tolerance productivity",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482731/curry_a5jb3a.jpg"
+    },
+    {
+      "id": 5,
+      "name": "James Harden",
+      "status": "User-centric fault-tolerant solution",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482741/harden_xamz6l.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ja Morant",
+      "status": "Synchronised bottom-line interface",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482749/ja_ua2i18.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kawhi Leonard",
+      "status": "Configurable multimedia task-force",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482766/kawhi_nsn0rb.png"
+    },
+    {
+      "id": 8,
+      "name": "Magic Johnson",
+      "status": "Implemented secondary concept",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482769/magic_purhbd.png"
+    },
+    {
+      "id": 9,
+      "name": "Kobe Bryant",
+      "status": "Mamba Mentality",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482773/mamba_ibf3th.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Derrick Rose",
+      "status": "Switchable contextually-based project",
+      "imgUrl":"https://res.cloudinary.com/dhyq99trs/image/upload/v1581482779/rose_udfecx.png"
+    }
+  ]
+}
